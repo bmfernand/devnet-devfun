@@ -3,3 +3,4 @@ adicionei local
 adicionei na cloud
 update local
 teste cloud
+test02
