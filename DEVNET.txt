@@ -1,3 +1,4 @@
 I'm a git beginner now!
 adicionei local
 adicionei na cloud
+teste cloud
