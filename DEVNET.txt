@@ -1,2 +1,6 @@
 I'm a git beginner now!
+<<<<<<< HEAD
 adicionei local
+=======
+adicionei na cloud
+>>>>>>> b32b4e49e8671404d3758bbcbbff2cae3129baac
